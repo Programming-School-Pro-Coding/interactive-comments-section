@@ -38,5 +38,5 @@
 
 ## Author
 
-- Frontend Mentor - [@arshWebDev](https://www.frontendmentor.io/profile/arshWebDev)
-- Twitter - [@arshWebDev](https://twitter.com)
+- Frontend Mentor - [@arshWebDev](https://www.frontendmentor.io/profile/Programming-School-Pro-Coding)
+- Twitter - [@Programing_Pro](https://twitter.com/Programing_Pro)
