@@ -17,7 +17,7 @@
 ## Links
 
 - [Solution URL](https://github.com/Programming-School-Pro-Coding/interactive-comments-section)
-- [Live Site URL](https://interactive-comments-section-nine.vercel.app)
+- [Live Site URL](https://interactive-comments-section-liard.vercel.app/)
 
 ## Built with
 
