@@ -16,7 +16,7 @@
 
 ## Links
 
-- [Solution URL](https://github.com/arshWebDev/interactive-comments-section)
+- [Solution URL](https://github.com/Programming-School-Pro-Coding/interactive-comments-section)
 - [Live Site URL](https://interactive-comments-section-nine.vercel.app)
 
 ## Built with
